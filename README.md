@@ -17,3 +17,10 @@
 
     
 ### 📊 Stats
+## 📰 Daily.dev
+
+<p align="center">
+  <a href="https://app.daily.dev/emiliofavoretto">
+    <img src="./emiliofavoretto.png" alt="Daily.dev Card" width="600" />
+  </a>
+</p>
