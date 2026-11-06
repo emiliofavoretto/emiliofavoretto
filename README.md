@@ -27,8 +27,8 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165rem" src="https://github-readme-stats.vercel.app/api?username=emiliofavoretto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="165rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiliofavoretto&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+  <img height="165rem" src="https://github-readme-streak-stats.herokuapp.com/?user=emiliofavoretto&theme=tokyonight&hide_border=true" alt="Sequência de Commits" />
+  <img height="165rem" src="https://github-readme-activity-graph.vercel.app/graph?username=emiliofavoretto&theme=tokyonight" alt="Gráfico de Atividade" />
 </p>
 
 ---
