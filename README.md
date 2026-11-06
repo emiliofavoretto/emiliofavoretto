@@ -2,7 +2,7 @@
 
 - 🙂 Studying Systems Development at SENAI
 - 🏙️ Valinhos, SP
-- 🍀 First year of technical course
+- 🍀 Second year of technical course
 
 ### 🧰 Languages and Tools
 
