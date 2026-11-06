@@ -37,6 +37,6 @@
 
 <p align="center">
   <a href="https://app.daily.dev/emiliofavoretto">
-    <a href="https://daily.dev/emiliohenriquedossantosfavoretto"><img src="https://api.daily.dev/devcards/v2/JZ8ygraEnr62Xz3YasAlc.png?type=wide&r=69g" width="900" alt="Emílio Henrique dos Santos Favoretto's Dev Card"/></a>
+    <a href="https://daily.dev/emiliohenriquedossantosfavoretto"><img src="https://api.daily.dev/devcards/v2/JZ8ygraEnr62Xz3YasAlc.png?type=wide&r=159g" width="900" alt="Emílio Henrique dos Santos Favoretto's Dev Card"/></a>
   </a>
 </p>
